@@ -1,0 +1,112 @@
+[
+  {
+    "manufacturer": "Cisco",
+    "model": "Nexus HyperFabric AI Cluster",
+    "type": "AI infrastructure",
+    "throughput": null,
+    "ports": null,
+    "wifi_standards": null,
+    "poe": null,
+    "other_info": "Cisco's HyperFabric AI Cluster built with NVIDIA for generative AI data center operations",
+    "price_usd": null
+  },
+  {
+    "manufacturer": "Juniper Networks",
+    "model": "AI-Native Networking Platform",
+    "type": "Networking platform",
+    "throughput": null,
+    "ports": null,
+    "wifi_standards": null,
+    "poe": null,
+    "other_info": "Platform designed for AI-driven operations across switching, routing, and security",
+    "price_usd": null
+  },
+  {
+    "manufacturer": "Extreme Networks",
+    "model": "AP5020",
+    "type": "Wireless Access Point",
+    "throughput": "20 Gbps aggregate",
+    "ports": "2 x Ethernet (1/2.5/5/10GbE)",
+    "wifi_standards": "Wi-Fi 7 (802.11be)",
+    "poe": "802.3bt PoE in, optional PoE out",
+    "other_info": "Five-radio design with PoE failover support",
+    "price_usd": null
+  },
+  {
+    "manufacturer": "HPE",
+    "model": "Enterprise Private 5G",
+    "type": "Private 5G solution",
+    "throughput": null,
+    "ports": null,
+    "wifi_standards": null,
+    "poe": null,
+    "other_info": "Integration with HPE Aruba networking for enterprise 5G",
+    "price_usd": null
+  },
+  {
+    "manufacturer": "Huawei",
+    "model": "Apollo Commercial 5.5G",
+    "type": "5.5G network solution",
+    "throughput": null,
+    "ports": null,
+    "wifi_standards": null,
+    "poe": null,
+    "other_info": "Huawei Apollo 5.5G solution for high-bandwidth applications",
+    "price_usd": null
+  },
+  {
+    "manufacturer": "Fortinet",
+    "model": "FortiGate Rugged 70G 5G Dual Modem",
+    "type": "Rugged firewall",
+    "throughput": "8 Gbps firewall, 7 Gbps IPsec VPN",
+    "ports": null,
+    "wifi_standards": null,
+    "poe": null,
+    "other_info": "Compact appliance with dual 5G modem and AI-powered security",
+    "price_usd": 3459.99
+  },
+  {
+    "manufacturer": "CommScope",
+    "model": "GigaREACH XL",
+    "type": "Ethernet extender",
+    "throughput": null,
+    "ports": null,
+    "wifi_standards": null,
+    "poe": null,
+    "other_info": "Long-reach copper solution for PoE devices",
+    "price_usd": null
+  },
+  {
+    "manufacturer": "Arista",
+    "model": "Etherlink AI",
+    "type": "Switch",
+    "throughput": null,
+    "ports": null,
+    "wifi_standards": null,
+    "poe": null,
+    "other_info": "AI-driven switching platform",
+    "price_usd": null
+  },
+  {
+    "manufacturer": "Cambium Networks",
+    "model": "cnMatrix Switch Portfolio",
+    "type": "Switch",
+    "throughput": null,
+    "ports": null,
+    "wifi_standards": null,
+    "poe": null,
+    "other_info": "Switch family with network automation features",
+    "price_usd": null
+  },
+  {
+    "manufacturer": "Allied Telesis",
+    "model": "TQ7403",
+    "type": "Wireless Access Point",
+    "throughput": "2.4 Gbps raw capacity",
+    "ports": "2 x Multi-Gigabit uplink ports (1/2.5/5G)",
+    "wifi_standards": "Wi-Fi 6E (802.11ax)",
+    "poe": "PoE++ (802.3bt) injector",
+    "other_info": "Hybrid Wi-Fi 6E AP with three-radio design",
+    "price_usd": null
+  }
+]
